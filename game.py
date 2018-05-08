@@ -46,3 +46,8 @@ if question_num == "5":
      print("Correct!")
     
  
+if question_num == "7":
+ print("Is Call Of Duty a 18+?")
+  answer = input("Answer: ")
+   if answer == "Yes":
+    print("Correct!")
