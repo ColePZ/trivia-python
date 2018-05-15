@@ -42,7 +42,7 @@ if question_num == "5":
  if question_num == "6":
   print("Is Fortnite an Open Beta [A] or a Closed Beta [B]")
    answer = input("Answer: ")
-    if answer == "B":
+    if answer == "A":
      print("Correct!")
     
  
@@ -51,3 +51,23 @@ if question_num == "7":
   answer = input("Answer: ")
    if answer == "Yes":
     print("Correct!")
+    
+    
+ if question_num == "8":
+  print("Is Minecraft a 3 or a 7?")
+  answer = input("Answer: ")
+   if answer == "7":
+    print("Correct!")
+    
+ if question_num == "9":
+  print("How many years old is Discord?")
+  answer = input("Answer: ")
+    if answer == "3":
+    print("Correct!")
+    
+    
+  if question_num == "10":
+   print("Is ColePZ HiddenCale?")
+   answer = input("Answer: ")
+    if answer == "Yes":
+     print("Correct!")
